@@ -60,7 +60,7 @@ const generator = (numberNeeded) => {
       batch.pop();
       i--
     }
-  }
+  };
   return batch
   }
 let newBatch = generator(60);
