@@ -1,2 +1,1 @@
-The DNA generator and mutation algorithm
-Someday it will get better
+These are just practice scripts, nothing to see here.
